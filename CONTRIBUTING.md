@@ -1,20 +1,11 @@
-# Contributing Guidelines
+# Contributing to Coursera-IBM-Getting-Started-With-Git-and-Github
 
-Thank you for your interest in contributing to this project! 
-
-## Suggesting Changes
-
-We welcome your ideas and contributions! If you'd like to propose a change, please follow these steps:
+Thank you for your interest in contributing to this project! Please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Submit a pull request, describing your changes and why they should be merged.
+3. Make your changes and commit them with a clear message.
+4. Push your changes to your forked repository.
+5. Create a pull request to merge your changes into the main repository.
 
-## Code Review
-
-All contributions will go through a code review process. Be prepared to address feedback and make necessary revisions.
-
-
-Thank you for contributing to our project!
-
+Please make sure your code follows the project's coding standards and includes appropriate tests.
